@@ -1,0 +1,27 @@
+﻿API链接,Update_Time,Author,API名称,API描述,API Popularity,API Latency,API Service Level
+https://rapidapi.com/topapi-topapi-default/api/cryptocurrency-news2/, 9 months ago , topapi ,Cryptocurrency News,Get the latest crypto news direct from your preferred sources (fast & reliable). News sources will be continuously added.,9.7,681 ms,99%
+https://rapidapi.com/vishwaraj/api/hashing-api3/, 2 months ago , vraj ,Hashing api,This api generates sha256 hash of the given text,8.9,692 ms,100%
+https://rapidapi.com/pmphobia/api/secure-text-api/, 5 months ago , minizymint ,secure-text-api,This project created for serve api endpoints to encrypt and decrypt text via http request,9.2,595 ms,100%
+https://rapidapi.com/vishwaraj/api/encryption-api2/, 4 days ago , vraj ,Encryption API,This api will encrypt given the text using aes 256 cbc algorithm,8.7,642 ms,100%
+https://rapidapi.com/emir12/api/crypto-whale-tracker/, 8 months ago , CoinSpot ,₿ Crypto Whale Tracker 🚀,"Portfolio & whales multi-chain tracker. Get Net worth, Coins & NFTs on wallets, History, Trade signals (short/long) and Pools/Staking and more",8.9,562 ms,100%
+https://rapidapi.com/sachadee/api/no-intrusive-steganografy/, 2 months ago , sachadee ,No Intrusive steganografy,No Intrusive steganografy,,,
+https://rapidapi.com/reddio-reddio-default/api/reddio-nft-token-and-ipfs/, 8 months ago , Reddio ,"Reddio NFT, Token and IPFS","Reddio APIs provide the layer 2 zkRollup APIs powered by StarkEx from StarkWare, enabling 0 gas fee on layer 2 and 10k TPS. This new zkRollup technology is being widely use by many NFT marketplaces, GameFi , Defi projects etc.",9.3,227 ms,100%
+https://rapidapi.com/iftiin-koox-iftiin-koox-default/api/iftiin-crypt/, 4 months ago , Iftiin-api ,Iftiin-Crypt,Api to enryp/decrypt text messages,,,
+https://rapidapi.com/contactazguer/api/text-cryptography/, 2 months ago , azguer service ,Text cryptography,Get encrypted text and decrypt with ease based on HS256 algorithm,,,
+https://rapidapi.com/starhunter17017/api/digital-currency/, 7 months ago , Michael Bas ,Digital Currency,List of all digital currencies,,,
+https://rapidapi.com/ajenteretecode/api/securityapi1/, 8 months ago , arki code ,securityAPI,"Our API offers a secure and reliable encryption and decryption service utilizing the latest industry-standard cryptographic algorithms. Our SHA256 endpoint provides an easy means to verify user passwords. It compares the user-entered password with the stored hash to ensure that only authorized users gain access to your services. Our RSA endpoint generates a secure public-private key pair, allowing you to encrypt sensitive data before transmitting it over the network. This guarantees that ev...",,,
+https://rapidapi.com/kidddevs/api/eea-email-encryption-api/, 2 months ago , Dakidarts ,EEA - Email Encryption API,"Welcome to the Secure Email API 🚀, an API that provides functionalities for encrypting, decrypting, signing, and verifying emails to ensure secure communication.",8.2,"2,178 ms",100%
+https://rapidapi.com/narukaakshat/api/url-encoder-decoder/, 4 months ago , probiex ,URL Encoder/Decoder,Encodes or decodes special characters in URLs,,,
+https://rapidapi.com/progwhiz1/api/pgp-decryption-api/, 6 months ago , Mark Raymond ,PGP Decryption API,PGP Decryption API to easily decrypt an PGP encrypted file once the Private Key is provided along with the Passphrase.,,,
+https://rapidapi.com/kumrawath/api/text-qr-generator/, 9 months ago , Himanshu Kumrawat ,Text QR generator,It takes the text as query parameters and converts the text to QR code and provides the same as downloadable png format image.,,,
+https://rapidapi.com/admorelli/api/crypto-key-value-store/, 9 months ago , admorelli ,Crypto Key Value Store,API Able to store data/hash key value pair weakly associated.,,,
+https://rapidapi.com/EymenTakak/api/random-phrase-generator/, 6 months ago , EymenTakak ,Random Phrase Generator,Random 12-word generator in BiP32 and BiP39 Standard,0.0,249 ms,100%
+https://rapidapi.com/TomJenkins/api/electronic-certificate-verification/, 9 months ago , Oleg Sharov ,Electronic Certificate Verification,"This API allows users to send an X.509 certificate in base64-encoded DER format, and receive information about the certificate. The API returns the expiration date, issuer information, key algorithm, serial number, and subject information for the provided certificate.",,,
+https://rapidapi.com/jwangcn9299/api/web3-api2/, 5 months ago , Jerry Wang ,web3 api,query ethereum mainnet data,0.0,439 ms,0%
+https://rapidapi.com/cteamapicloud123/api/converter18/, 3 months ago , 群鼎測試 ,Converter,Converter Project,0.0,164 ms,100%
+https://rapidapi.com/adrian2ross/api/fanfury/, 6 months ago , Adrian Ross ,fanfury,Fanfury,,,
+https://rapidapi.com/josestg/api/hexsign/, 7 months ago , Jose Alfredo Sitanggang ,hexsign,Digital Signature as a Service,,,
+https://rapidapi.com/BlakeKaufman/api/bitcoin-wallet/, 3 months ago , BlakeKaufman ,bitcoin-wallet,A bitcoin wallet api,0.0,582 ms,0%
+https://rapidapi.com/pablogaraguso/api/uuid-v4/, 6 months ago , Pablo Garaguso ,UUID v4,Generates a Universal Unique Identifier v4 in plain text,,,
+https://rapidapi.com/progwhiz1/api/3des-decyption-api/, 6 months ago , Mark Raymond ,3Des Decyption API,3Des Decryption API to easily decrypt any TripleDes (3Des) encrypted file once the keyfile is supplied.,,,
+https://rapidapi.com/piyushanand2580/api/cryto-prediction/, 4 months ago , Piyush Anand ,Cryto prediction,Crypto prediction,,,
