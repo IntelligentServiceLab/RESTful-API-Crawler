@@ -98,7 +98,6 @@ Basic.py是爬取各API中具体信息的Python文件。
 | Endpoint必须参数 | [{'参数名': ['your-api-key', 'shortcode'], '参数类型': ['STRING', 'STRING'], '参数注意事项': ['Your APIKey provided by Workable', 'Retrieve detailed job information, including the job description. The shortcode is a unique identifier for each jobs and can be seen by invoking "/jobs"']}] |
 | Endpoint可选参数 | [{'参数名': ['address', 'lng', 'lat', 'note'], '参数类型': ['STRING', 'STRING', 'STRING', 'STRING'], '参数注意事项': ['An optional human readable address string where the QR Code will be attached', 'An optional longitude of where the QR Code will be attached', 'An optional latitude of where the QR Code will be attached', 'An optional note']}] |
 
-=======
 ## 目录
 
 #### **1.**[数据集简介](#数据集简介)
@@ -198,5 +197,3 @@ Basic.py是爬取各API中具体信息的Python文件。
 | Endpoint种类     | Tier 2 APIs ( Fast )                                         |
 | Endpoint必须参数 | [{'参数名': ['your-api-key', 'shortcode'], '参数类型': ['STRING', 'STRING'], '参数注意事项': ['Your APIKey provided by Workable', 'Retrieve detailed job information, including the job description. The shortcode is a unique identifier for each jobs and can be seen by invoking "/jobs"']}] |
 | Endpoint可选参数 | [{'参数名': ['address', 'lng', 'lat', 'note'], '参数类型': ['STRING', 'STRING', 'STRING', 'STRING'], '参数注意事项': ['An optional human readable address string where the QR Code will be attached', 'An optional longitude of where the QR Code will be attached', 'An optional latitude of where the QR Code will be attached', 'An optional note']}] |
-
->>>>>>> 0f5e665c99be2b55afe2414344a9653a4af424e4
