@@ -18,7 +18,7 @@
 
 ​ 获取的数据集文件以所属种类命名，一共包含 49 个种类的 API，例如（Email，Sport），每个 API 包含一个或多个 Endpoint。Basic 文件中保存了描述 API 的基本信息，例如 API 名称，API 链接，流行度，服务水平等。Detail 文件中保存了该种类 API 对应的 Endpoint 信息，如 Endpoint 名称，可选参数，必选参数等。
 
-![屏幕截图 2023-11-08 213652](./rapid/Static/index.png)
+![屏幕截图 2023-11-08 213652](./RESTful-API-Crawler/Static/index.png)
 
 ## 依赖文件
 
@@ -33,13 +33,13 @@
 
 ### 项目结构
 
-![屏幕截图 2023-11-08 222343](./rapid/Static/project.png)
+![屏幕截图 2023-11-08 222343](./RESTful-API-Crawler/Static/project.png)
 
 #### 实现代码
 
-Basic.py 是爬取基本信息的 Python 文件。
+`Basic.py`是爬取基本信息的 Python 文件。
 
-Detail.py 是爬取各 API 中具体信息的 Python 文件。
+`Detail.py`是爬取各 API 中具体信息的 Python 文件。
 
 #### 结果数据集
 
