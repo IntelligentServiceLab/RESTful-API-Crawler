@@ -7,8 +7,8 @@
 3. **[代码使用说明](#代码使用说明)**
 
 - **[项目结构](#项目结构)**
-- **[Basic.py](Basic.py)**
-- **[Detail.py](Detail.py)**
+- **[Basic.py](./RESTful-API-Crawler/Scripts/Basic_API_Info.py)**
+- **[Detail.py](RESTful-API-Crawler/Scripts/Detail.py)**
 
 4. **[数据集字段说明](#数据集字段说明)**
 
@@ -47,7 +47,7 @@ Basic 文件夹中保存 API 基本信息，例如 API 名称，API 连接，流
 
 Detail 文件夹中保存 API 中各个 Endpoint 具体信息，Endpoint 名称，可选参数，必选参数等。
 
-#### 结果数据集字段说明
+#### 数据集字段说明
 
 **Basic 文件字段说明**
 
