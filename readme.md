@@ -30,7 +30,7 @@
 
 ### 项目结构
 
-### ![image-20231113200858258](C:\Users\李文\AppData\Roaming\Typora\typora-user-images\image-20231113200858258.png)
+### ![image-20231113200858258](./RESTful-API-Crawler/Static/project.png)
 
 
 
