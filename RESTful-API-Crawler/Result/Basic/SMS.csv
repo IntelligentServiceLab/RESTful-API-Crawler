@@ -1,100 +1,100 @@
-﻿API链接,Update_Time,Author,API名称,API描述,API Popularity,API Latency,API Service Level
-https://rapidapi.com/telesign/api/telesign-sms-verify/, 2 years ago , Telesign ,Telesign SMS Verify,"Delivers patented phone-based verification and two-factor authentication using a time-based, one-time passcode sent over SMS",9.8,587 ms,100%
-https://rapidapi.com/chdan/api/microsoft-authenticator/, 2 months ago , chdan ,Microsoft Authenticator,Generate and validate time-based one-time passwords (TOTP) for your second factor authentication (2FA) scenario using Microsoft Authenticator app,9.7,276 ms,100%
-https://rapidapi.com/rsmt-rsmt-default/api/sms136/, 2 years ago , RSMT ,SMS,"Send SMS from your own number (Telekom Slovenije, T-2)",9.6,692 ms,100%
-https://rapidapi.com/larroyouy70/api/phonenumbervalidatefree/, 7 months ago , LeonardoArroyo ,PhoneNumberValidateFree,"Free and easy. Validate any phone number, from any country. Get type of number (for example, fixed line or mobile), the location of the number, and also reformat the number into local and international dialing formats.",9.9,474 ms,99%
-https://rapidapi.com/patosan36/api/easy-authenticator/, 2 months ago , Tonpai ,Easy Authenticator,"Time-based One-time Password (TOTP), Support for Multiple apps like Google Authenticator or Microsoft Authenticator etc.",9.6,"1,298 ms",100%
-https://rapidapi.com/g000dpixel/api/whatsapp-checker-pro/, 3 months ago , Goodcode ,Whatsapp Checker PRO,You only have to send us contact mobile numbers and we will filter the numbers registered on whatsapp The service helps you to promote your services efficiently,9.5,675 ms,100%
-https://rapidapi.com/smsguru-smsguru-default/api/smsguru1/, 2 months ago , SmsGuru ,SmsGuru,An all around sms API for sending messages all over the world www.smsapiguru.com,9.6,"1,217 ms",100%
-https://rapidapi.com/textflow-llc-textflow-llc-default/api/textflow-sms-api/, 5 months ago , TextFlow LLC ,TextFlow SMS API,An api for sending text messages and verifying users using their phone numbers www.textflow.me,9.7,"1,227 ms",100%
-https://rapidapi.com/tomwimmenhove/api/sms-receive/, a month ago , Tom Wimmenhove ,SMS Receive,"Integrate receiving SMS message into your apps and applications, enabling automation based on incoming text messages. For a simple demonstration, see https://www.tomwimmenhove.com/sms/",9.5,"1,287 ms",100%
-https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7sms/, 2 months ago , Direct7 Networks ,D7SMS,"Unlock boundless connectivity with D7API Gateway, seamlessly connecting you to the world's vast messaging network through D7's exclusive network access",9.8,155 ms,99%
-https://rapidapi.com/getitsmsservices/api/getitsms-whatsapp-apis/, 4 months ago , GetItSMS ,GetItSMS WhatsApp APIs,"Send And Receive WhatsApp Bulk Messages(WhatsApp Marketing Messages) Through Whatsapp Business API Gateway(WhatsApp Green Tick Verification). For the Purpose Of Sending Notifications, OTPs, Or Anything Else Using Our WhatsApp Business API (WhatsApp Official API) Or WhatsApp OTP API and WhatsApp Chatbot. For Demo Contact Us(+91-7976724242) Or Register Here - http://sms.getitsms.com/signup Shopify Integration - https://apps.shopify.com/wpplugins",9.6,"1,528 ms",100%
-https://rapidapi.com/sukh.panwar18/api/send-sms18/, 2 years ago , sukhdev panwar ,Send SMS,Nothing,9.6,491 ms,100%
-https://rapidapi.com/wipple/api/wipple-sms-verify-otp/, 2 years ago , wipple ,Wipple SMS Verify OTP,SMS verify Wipple SMS Verify OTP API for validation of Phone numbers.,9.5,325 ms,64%
-https://rapidapi.com/sms77io-sms77io-default/api/sms77io/, 4 months ago , seven.io ,sms77io,"Send SMS & text-to-speech messages, perform phone number lookups and much more via seven.io.",9.7,598 ms,100%
-https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7-verify/, 2 months ago , Direct7 Networks ,D7 Verify,Elevate your verification (OTP) process to new heights with D7 Verifier API - the ultimate solution for 2FA!,9.7,159 ms,100%
-https://rapidapi.com/shameeraanuranga1991/api/virtual-number/, 8 months ago , Razor91 ,Virtual Number,Receive SMS for phone verification,9.9,724 ms,100%
-https://rapidapi.com/capybaraclubstore/api/rapid-sms-api/, 4 months ago , capybara club ,Rapid SMS API,A simple SMS api for sending messages all over the world. Find out more at www.rapidapisms.com,9.7,"1,076 ms",100%
-https://rapidapi.com/porselvan/api/create-sms/, 9 months ago , Porselvan P ,Create sms,you can send sms using this api. Testing api. Please ignore,9.1,"1,286 ms",100%
-https://rapidapi.com/samehsilim/api/send-sms-tier-1/, 2 months ago , The Equalizer ,Send SMS (Tier 1),Send SMS World Wide as low as $0.02 per message,8.5,"2,730 ms",100%
-https://rapidapi.com/jedibassist/api/simple-2fa-sms/, 2 years ago , jedibassist ,Simple 2FA SMS,Sends a 2FA SMS message,8.5,753 ms,100%
-https://rapidapi.com/bpt22/api/phone-number-analyzer/, 10 days ago , espresso ,Phone Number Analyzer,"Find phone number in text, get info about number, hide number in text",9.0,359 ms,100%
-https://rapidapi.com/21zoo/api/easy-2fa-sms/, a year ago , 21zoo ,Easy 2FA SMS,Easily send 2FA SMS to any US/Canada number (and more countries coming soon!),8.9,66 ms,100%
-https://rapidapi.com/hashamaly/api/sms151/, 2 years ago , hashamaly ,SMS,Send SMS using your own android phone as the gateway.,9.4,908 ms,100%
-https://rapidapi.com/vikashkhati007/api/temporary-email-generator/, 2 months ago , Vikash Khati ,Temporary Email Generator,"The Temporary Mail Generator API provides a simple and convenient way to generate temporary email addresses and access the corresponding inbox messages. It is designed to be easy to use and integrate into your applications, making it ideal for various scenarios such as testing, account verification, and protecting your privacy online.",9.2,"2,016 ms",100%
-https://rapidapi.com/waelzamouri/api/sms-exchange/, 2 months ago , ZAMDEV ,sms-exchange,"Send your SMS now ! Available only for France, but soon other countries on our destination list. Take a look !",8.9,"34,128 ms",100%
-https://rapidapi.com/larroyouy70/api/phonenumbervalidate/, 9 months ago , LeonardoArroyo ,PhoneNumberValidate,Validate any phone number in any country,9.3,566 ms,91%
-https://rapidapi.com/yusufzai12397/api/go-messenger/, a month ago , Mohd Yahiya Khan ,Go-Messenger,"""Rev up your messaging game with the LightningChat API – the Usain Bolt of Golang APIs! 🚀 Send, receive, and manage SMS faster than ever before.",9.0,277 ms,100%
-https://rapidapi.com/BrandedSMSPakistan/api/branded-sms-pakistan/, 2 years ago , Branded SMS Pakistan ,Branded SMS Pakistan,Branded SMS Pakistan provide Mask or Short Code Messaging Gateway in Pakistan,9.3,451 ms,100%
-https://rapidapi.com/mddoulat/api/smsway-app/, 2 years ago , MD Doulat ,SMSWAY APP,"Thousands of businesses rely on [SMS WAY APP](https://smswayapp.com) to communicate with their audience via text message. With our API, developers can access many of our platform’s features and integrate them with other websites or applications. (https://smswayapp.com)",9.0,604 ms,100%
-https://rapidapi.com/shoutout-shoutout-default/api/shoutout-sms/, 2 years ago , ShoutOUT ,ShoutOUT SMS,Send SMS to any number globally from your application through ShoutOUT SMS API,9.2,510 ms,100%
-https://rapidapi.com/anticorruptionrolic/api/demo-project738/, a year ago , АНДМ ва МКЧТ ,👋 Demo Project,This Project is created by the onboarding process,8.7,861 ms,100%
-https://rapidapi.com/in4mfawzar/api/bulk-sms-sending-sri-lanka/, 7 months ago , Fawzar Mohamed ,Bulk SMS Sending - Sri Lanka,The Cheapest and the best Bulk SMS Service in Sri Lanka,9.0,"74,042 ms",42%
-https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7-number-validator/, 2 months ago , Direct7 Networks ,D7 Number Validator,"The D7 Number Lookup API allows you to retrieve various details associated with a given phone number, including the carrier name, country code, number type (landline or mobile), and other relevant information.",8.7,876 ms,100%
-https://rapidapi.com/rivetsolutionsfze/api/rivet-sms/, a year ago , M Mubashir ,Rivet SMS,"Rivet SMS API offers programmable SMS APIs, so you can get maximum value from your messages. Use our APIs to send single, bulk messages , schedule broadcasts, configure/ triggers messages and much more.",9.2,509 ms,100%
-https://rapidapi.com/yennhi-yennhi-default/api/sms222/, 2 years ago , yennhi ,sms,send smd,8.9,69 ms,100%
-https://rapidapi.com/mr643062/api/phonenumber/, 2 years ago , Mohamad Ridwan Apriyadi ,phonenumber,study to send verification SMS,8.7,18 ms,100%
-https://rapidapi.com/stefanluciandeleanu/api/sms-voice-messages/, 2 years ago , Stefan Deleanu ,SMS & Voice Messages,Send SMS messages and voice messages using a simple to use API.,,,
-https://rapidapi.com/quartz-data-services-ltd-quartz-data-services-ltd-default/api/mobilecheck-mnp-lookup/, 4 months ago , Quartz Data Services Ltd ,MobileCheck MNP Lookup,MobileCheck MNP Lookup,8.3,730 ms,100%
-https://rapidapi.com/businessangelsunited/api/ai-messaging/, 10 months ago , Life Coach Ray ,AI Messaging,This API allows users to send text messages and images from the app to phone numbers.,,,
-https://rapidapi.com/firetext-firetext-default/api/firetext-uk-sms/, 2 years ago , FireText ,FireText UK SMS,FireText are the leading UK provider for SMS. Send SMS text messages via our API and manage your contacts inside your FireText account. We're a UK service.,,,
-https://rapidapi.com/activewatersaver/api/smssendin/, 2 years ago , Active watersaver ,smssendin,sms send,8.3,115 ms,100%
-https://rapidapi.com/easysendsms/api/easysendsms/, 9 months ago , EasySendSMS ,EasySendSMS,"EasySendSMS.com offers a powerful SMS API that allows developers to easily integrate SMS messaging functionality into their applications. With our API, developers can send bulk SMS.",8.4,583 ms,100%
-https://rapidapi.com/linkses/api/afilnet-sms/, 2 years ago , linkses ,Afilnet SMS,This API offers you connection with Afilnet services to send SMS and Bulk SMS campaigns,,,
-https://rapidapi.com/oliverlikowloon-9SzjVjYlt8j/api/test6219/, 2 years ago , Oliver Lieu ,test,test,,,
-https://rapidapi.com/goooogle/api/okko/, 2 years ago , goooogle ,OKKO,OKKO,,,
-https://rapidapi.com/meriem00sahraoui-gEzV4ednYm5/api/upi-sms/, a year ago , Meriem Sahraoui ,upi SMS,SMS SENDER,,,
-https://rapidapi.com/intergo-telecom-ltd-intergo-telecom-ltd-default/api/smsto/, a year ago , Intergo Telecom Ltd ,SMSto,"Implement SMS notifications, OTP, reminders, etc. into your workflow and build apps that send SMS with our redundant SSL SMS API.",2.1,742 ms,100%
-https://rapidapi.com/smsreceive/api/bulk-us-phone-numbers/, 2 years ago , SMSreceive ,Bulk US phone numbers,Buy bulk phone numbers for SMS verification/activation.,0.0,24 ms,0%
-https://rapidapi.com/shadow-immo-shadow-immo-default/api/textnow-one-day-phone-us/, 2 years ago , Shadow iMMO ,Textnow one day (Phone US),Give you a random US phone number in Textnow so you can use it for a day.,,,
-https://rapidapi.com/rmr-soft-rmr-soft-default/api/kyc-verification1/, 9 months ago , RMR-Soft ,KYC verification,Verify your users : -ID Card or passport verifications,,,
-https://rapidapi.com/blemedia-solutions-blemedia-solutions-default/api/redtie/, 9 months ago , Redtie ,Redtie,The robust and secure text messaging solution for your Business,,,
-https://rapidapi.com/clarkhacks/api/hooksms/, 2 years ago , clarkhacks ,HookSMS,Quickly integrate outbound SMS with a simple post request or our npm package.,,,
-https://rapidapi.com/marcduplessis1/api/bulksmssender/, 2 months ago , Marc du Plessis ,BulkSMSSender,"The Bulk SMS Sender API empowers developers and businesses to efficiently send SMS messages in bulk to multiple recipients. This API is designed for backend applications and integrates seamlessly with Twilio, a leading SMS messaging platform, to ensure reliable and secure message delivery.",0.0,"1,442 ms",100%
-https://rapidapi.com/josh--iONfbK0eYx/api/format-phone-number1/, a year ago , Josh Sullivan ,Format Phone Number,"By passing in phone number and country, our API returns a properly formatted number for sending through various SMS services.",,,
-https://rapidapi.com/pik-technologies-llc-pik-technologies-llc-default/api/skip-auth/, a year ago , Pik Technologies LLC ,Skip Auth,Phone number verification API.,,,
-https://rapidapi.com/need-it-need-it-default/api/disposable-phone-number/, a year ago , need it ,Disposable phone number,Detect virtual phone number - Protect you business against scammer and false account.,0.0,158 ms,0%
-https://rapidapi.com/Atia/api/otp-sms-verification/, 2 years ago , Atia ,Otp sms verification,send otp verification code to any number and verify otp code,,,
-https://rapidapi.com/illegalbyte/api/smsjet/, a year ago , illegalbyte ,SMSjet,"The Affordable SMS API, send 100 SMS for only $1. Receive 100 free credits on signup.",0.1,30 ms,0%
-https://rapidapi.com/remote-analytics-jobs-remote-analytics-jobs-default/api/spewhub/, 2 years ago , Remote Analytics Jobs ,SpewHub,Unlimited Two Way Global SMS API | Send More Spend Less | Subscription-based | Highly Affordable as low as $5,,,
-https://rapidapi.com/gurukrupa77/api/gms/, 2 years ago , gurukrupa77 ,gms,sms,0.0,21 ms,0%
-https://rapidapi.com/otpninja-otpninja-default/api/otpninja/, 2 years ago , otpninja ,otpninja,Time-based and one time codes for verifying phone numbers,,,
-https://rapidapi.com/accuratecheckr/api/phone-verification3/, 2 years ago , accuratecheckr ,Phone verification,"Validate any phone number across the USA, in bulk or single. Use free and forever.",0.1,496 ms,100%
-https://rapidapi.com/mariusripeanu/api/nobel-sms/, 2 years ago , Ionut Ripeanu ,Nobel SMS,Nobel SMS - High Performance Messaging Solution,,,
-https://rapidapi.com/arminashoury/api/one-step-2fa-sms/, a year ago , CronDock ,One Step 2FA SMS,"Pass a phone number and a confirmation URL to the API, user will receive a text message, if they confirm to login a post request will be sent to the confirmation URL you provided.",,,
-https://rapidapi.com/hamedagebaty/api/number-lookup1/, a year ago , hamedagebaty ,number lookup,lookup number operator,0.0,111 ms,100%
-https://rapidapi.com/bd2010news-U1yT1lt2b4b/api/lowest-cost-otp-via-sms-for-bangladesh/, 2 years ago , Al Imran Suvro ,Lowest Cost OTP Via SMS for Bangladesh,A simple way to verify Bangladesh user's phone number verification with the lowest cost.,,,
-https://rapidapi.com/cybearian-cybearian-default/api/cybearian-sms/, 2 years ago , Cybearian ,cybearian-sms,Mobile short message service from Cybearian,,,
-https://rapidapi.com/servettuncel/api/2fa-provider/, 2 years ago , Servet Tunçel ,2FA Provider,Send Verification Number to your Clients safety!,,,
-https://rapidapi.com/autobamm/api/augustinapi1/, 2 years ago , autobamm.ro ,AugustinAPI,SMS,,,
-https://rapidapi.com/miftahsteven/api/sms35/, 2 years ago , Miftah Steven ,SMS,SMS API,,,
-https://rapidapi.com/shoutout-shoutout-default/api/shoutout-otp1/, 2 years ago , ShoutOUT ,ShoutOUT OTP,Power your application with Two Factor Authentication with OTP API. Generate OTP code and validation API are available where you just have to worry about your application logic.,0.1,888 ms,92%
-https://rapidapi.com/dsys01/api/dedu/, 2 years ago , praveen ,dedu,dedu,,,
-https://rapidapi.com/guinessnanaa/api/david1/, 2 years ago , David Cohen ,david,hot store,,,
-https://rapidapi.com/henrycazalet/api/the-sms-works2/, 2 years ago , Henry Cazalet ,The SMS Works,"A rock solid, low cost SMS API that companies and organisations of all sizes can rely on.",0.0,378 ms,100%
-https://rapidapi.com/dllmdog2019/api/g2api2019/, 2 years ago , Dog DLLM ,g2API2019,g2API,,,
-https://rapidapi.com/lqv206/api/lqv68/, 2 years ago , Vu Lee ,lqv68,lqv68,,,
-https://rapidapi.com/liamquinnreach/api/reach-interactive/, 2 years ago , liamquinnreach ,Reach Interactive,"Our secure SMS API is the only tool you'll need to schedule, send and receive messages from your existing systems. It's robust too - even the most demanding applications see high message throughputs using our API.",,,
-https://rapidapi.com/emanuele.dunp/api/send-sms4/, 2 years ago , Emanuele Longhi ,Send SMS,Send text messages,,,
-https://rapidapi.com/broadnet-technologies-broadnet-technologies-default/api/broadnet-sms1/, a year ago , BroadNet Technologies ,BroadNet SMS,"Broadnet is an international leading business messaging solution provider. We are a GSMA associate member, ISO in information security management and quality management system and GDPR Certified; Broadnet is well known for its services: Bulk SMS, A2P SMS, HLR Lookup, SMSC Gateway and SMS Firewall; more than 60,000+ Clients. Direct connection to more than 680+ Operators & Carriers.",0.1,476 ms,0%
-https://rapidapi.com/tql247/api/l2/, 2 years ago , Tran Linh ,L2,Get and save request,,,
-https://rapidapi.com/sms-portal-sms-portal-default/api/smsportal1/, 2 years ago , SMSPortal ,SMSPortal,Bulk SMS for maximum reach and genuine customer engagement.,,,
-https://rapidapi.com/smsapi/api/smsapi-com3/, 2 years ago , SMSAPI ,SMSAPI.com,Powerful and easy SMS communication at your fingertips!,0.1,743 ms,100%
-https://rapidapi.com/aldohsil2607-4RCZ40zIqPL/api/smsbouldering/, 2 years ago , Copy Code ,SMSbouldering,aas,0.0,"5,450 ms",0%
-https://rapidapi.com/gaskart/api/gaskart-apps/, 2 years ago , gaskart ,GASKART APPS,GASKART API,,,
-https://rapidapi.com/imuzahuzi/api/sms-app3/, 5 months ago , imuzahuzi ,SMS App,,,,
-https://rapidapi.com/spring-edge-spring-edge-default/api/transactional-sms1/, 2 years ago , Spring Edge Technologies Private Limited ,Transactional SMS,API to send transactional SMS,,,
-https://rapidapi.com/spring-edge-spring-edge-default/api/promotional-sms/, 2 years ago , Spring Edge Technologies Private Limited ,Promotional SMS,API to send promotional using spring edge sms gateway,0.0,252 ms,99%
-https://rapidapi.com/ughaleb/api/eid-program/, a year ago , Abdullah Ghaleb ,Eid Program,Salatin Committee,,,
-https://rapidapi.com/mohammed.b.shaker/api/test2678/, 2 years ago , mohammed ,test,tes test,,,
-https://rapidapi.com/ben10ch008/api/post-notifications-to-subscribers/, 10 months ago , Ben10 Ch ,Post Notifications to Subscribers,This API allows users to subscribe to a website and receive notifications of new posts.,0.0,21 ms,100%
-https://rapidapi.com/friendchatik-friendchatik-default/api/friendchatik/, 2 years ago , Friendchatik ,Friendchatik,SMS verification api,,,
-https://rapidapi.com/jhn.ibekwe/api/johneit/, 2 years ago , Ejike John Ibekwe ,JohnEIT,ICT solution service,0.0,36 ms,0%
-https://rapidapi.com/nhm1096/api/hctcom/, 2 years ago , Minh Nguyen ,hctcom,hctcom sms service,,,
-https://rapidapi.com/symtera-technologies-symtera-technologies-default/api/notify92-sms-service/, 2 years ago , Symtera Technologies ,Notify92 SMS Service,"Notify92 aims to provide a standard platform to allow corporates to send business bulk SMS from the Internet in Pakistan. This includes Short codes, one-way, two-way SMS alerts, SMS competitions, SMS voting, SMS information services, SMS marketing campaigns or SMS for CRM, OTP, notifications etc.",,,
-https://rapidapi.com/sammeyerson16/api/sms-send-receive/, 2 years ago , Sam M ,sms-send-receive,trying to send and receive sms,0.0,20 ms,0%
-https://rapidapi.com/kemonai-kemonai-default/api/zigatext-global-bulk-sms-otp1/, 5 months ago , Kemonai ,Zigatext - Global Bulk SMS & OTP,"Experience the power of efficient, targeted, and personalized SMS communication with Zigatext.",0.0,873 ms,100%
-https://rapidapi.com/Gunsky/api/gunsky/, 2 years ago , Gunsky ,Gunsky,Anjing,0.0,300 ms,100%
-https://rapidapi.com/shs-domino-shs-domino-default/api/testapi401/, 2 years ago , SHS Domino ,testAPI,testAPI,0.0,"127,204 ms",0%
-https://rapidapi.com/warneldilan/api/sms238/, 2 years ago , Warnel Dilan ,Sms,send bulk sms instantly,,,
+API链接,Update_Time,Author,API名称,API描述,API Popularity,API Latency,API Service Level
+https://rapidapi.com/telesign/api/telesign-sms-verify/,2021-11, Telesign ,Telesign SMS Verify,"Delivers patented phone-based verification and two-factor authentication using a time-based, one-time passcode sent over SMS",9.8,587 ms,100%
+https://rapidapi.com/chdan/api/microsoft-authenticator/,2023-09, chdan ,Microsoft Authenticator,Generate and validate time-based one-time passwords (TOTP) for your second factor authentication (2FA) scenario using Microsoft Authenticator app,9.7,276 ms,100%
+https://rapidapi.com/rsmt-rsmt-default/api/sms136/,2021-11, RSMT ,SMS,"Send SMS from your own number (Telekom Slovenije, T-2)",9.6,692 ms,100%
+https://rapidapi.com/larroyouy70/api/phonenumbervalidatefree/,2023-04, LeonardoArroyo ,PhoneNumberValidateFree,"Free and easy. Validate any phone number, from any country. Get type of number (for example, fixed line or mobile), the location of the number, and also reformat the number into local and international dialing formats.",9.9,474 ms,99%
+https://rapidapi.com/patosan36/api/easy-authenticator/,2023-09, Tonpai ,Easy Authenticator,"Time-based One-time Password (TOTP), Support for Multiple apps like Google Authenticator or Microsoft Authenticator etc.",9.6,"1,298 ms",100%
+https://rapidapi.com/g000dpixel/api/whatsapp-checker-pro/,2023-08, Goodcode ,Whatsapp Checker PRO,You only have to send us contact mobile numbers and we will filter the numbers registered on whatsapp The service helps you to promote your services efficiently,9.5,675 ms,100%
+https://rapidapi.com/smsguru-smsguru-default/api/smsguru1/,2023-09, SmsGuru ,SmsGuru,An all around sms API for sending messages all over the world www.smsapiguru.com,9.6,"1,217 ms",100%
+https://rapidapi.com/textflow-llc-textflow-llc-default/api/textflow-sms-api/,2023-06, TextFlow LLC ,TextFlow SMS API,An api for sending text messages and verifying users using their phone numbers www.textflow.me,9.7,"1,227 ms",100%
+https://rapidapi.com/tomwimmenhove/api/sms-receive/,2023-10, Tom Wimmenhove ,SMS Receive,"Integrate receiving SMS message into your apps and applications, enabling automation based on incoming text messages. For a simple demonstration, see https://www.tomwimmenhove.com/sms/",9.5,"1,287 ms",100%
+https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7sms/,2023-09, Direct7 Networks ,D7SMS,"Unlock boundless connectivity with D7API Gateway, seamlessly connecting you to the world's vast messaging network through D7's exclusive network access",9.8,155 ms,99%
+https://rapidapi.com/getitsmsservices/api/getitsms-whatsapp-apis/,2023-07, GetItSMS ,GetItSMS WhatsApp APIs,"Send And Receive WhatsApp Bulk Messages(WhatsApp Marketing Messages) Through Whatsapp Business API Gateway(WhatsApp Green Tick Verification). For the Purpose Of Sending Notifications, OTPs, Or Anything Else Using Our WhatsApp Business API (WhatsApp Official API) Or WhatsApp OTP API and WhatsApp Chatbot. For Demo Contact Us(+91-7976724242) Or Register Here - http://sms.getitsms.com/signup Shopify Integration - https://apps.shopify.com/wpplugins",9.6,"1,528 ms",100%
+https://rapidapi.com/sukh.panwar18/api/send-sms18/,2021-11, sukhdev panwar ,Send SMS,Nothing,9.6,491 ms,100%
+https://rapidapi.com/wipple/api/wipple-sms-verify-otp/,2021-11, wipple ,Wipple SMS Verify OTP,SMS verify Wipple SMS Verify OTP API for validation of Phone numbers.,9.5,325 ms,64%
+https://rapidapi.com/sms77io-sms77io-default/api/sms77io/,2023-07, seven.io ,sms77io,"Send SMS & text-to-speech messages, perform phone number lookups and much more via seven.io.",9.7,598 ms,100%
+https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7-verify/,2023-09, Direct7 Networks ,D7 Verify,Elevate your verification (OTP) process to new heights with D7 Verifier API - the ultimate solution for 2FA!,9.7,159 ms,100%
+https://rapidapi.com/shameeraanuranga1991/api/virtual-number/,2023-03, Razor91 ,Virtual Number,Receive SMS for phone verification,9.9,724 ms,100%
+https://rapidapi.com/capybaraclubstore/api/rapid-sms-api/,2023-07, capybara club ,Rapid SMS API,A simple SMS api for sending messages all over the world. Find out more at www.rapidapisms.com,9.7,"1,076 ms",100%
+https://rapidapi.com/porselvan/api/create-sms/,2023-02, Porselvan P ,Create sms,you can send sms using this api. Testing api. Please ignore,9.1,"1,286 ms",100%
+https://rapidapi.com/samehsilim/api/send-sms-tier-1/,2023-09, The Equalizer ,Send SMS (Tier 1),Send SMS World Wide as low as $0.02 per message,8.5,"2,730 ms",100%
+https://rapidapi.com/jedibassist/api/simple-2fa-sms/,2021-11, jedibassist ,Simple 2FA SMS,Sends a 2FA SMS message,8.5,753 ms,100%
+https://rapidapi.com/bpt22/api/phone-number-analyzer/,2023-11, espresso ,Phone Number Analyzer,"Find phone number in text, get info about number, hide number in text",9.0,359 ms,100%
+https://rapidapi.com/21zoo/api/easy-2fa-sms/,2022-11, 21zoo ,Easy 2FA SMS,Easily send 2FA SMS to any US/Canada number (and more countries coming soon!),8.9,66 ms,100%
+https://rapidapi.com/hashamaly/api/sms151/,2021-11, hashamaly ,SMS,Send SMS using your own android phone as the gateway.,9.4,908 ms,100%
+https://rapidapi.com/vikashkhati007/api/temporary-email-generator/,2023-09, Vikash Khati ,Temporary Email Generator,"The Temporary Mail Generator API provides a simple and convenient way to generate temporary email addresses and access the corresponding inbox messages. It is designed to be easy to use and integrate into your applications, making it ideal for various scenarios such as testing, account verification, and protecting your privacy online.",9.2,"2,016 ms",100%
+https://rapidapi.com/waelzamouri/api/sms-exchange/,2023-09, ZAMDEV ,sms-exchange,"Send your SMS now ! Available only for France, but soon other countries on our destination list. Take a look !",8.9,"34,128 ms",100%
+https://rapidapi.com/larroyouy70/api/phonenumbervalidate/,2023-02, LeonardoArroyo ,PhoneNumberValidate,Validate any phone number in any country,9.3,566 ms,91%
+https://rapidapi.com/yusufzai12397/api/go-messenger/,2023-10, Mohd Yahiya Khan ,Go-Messenger,"""Rev up your messaging game with the LightningChat API – the Usain Bolt of Golang APIs! 🚀 Send, receive, and manage SMS faster than ever before.",9.0,277 ms,100%
+https://rapidapi.com/BrandedSMSPakistan/api/branded-sms-pakistan/,2021-11, Branded SMS Pakistan ,Branded SMS Pakistan,Branded SMS Pakistan provide Mask or Short Code Messaging Gateway in Pakistan,9.3,451 ms,100%
+https://rapidapi.com/mddoulat/api/smsway-app/,2021-11, MD Doulat ,SMSWAY APP,"Thousands of businesses rely on [SMS WAY APP](https://smswayapp.com) to communicate with their audience via text message. With our API, developers can access many of our platform’s features and integrate them with other websites or applications. (https://smswayapp.com)",9.0,604 ms,100%
+https://rapidapi.com/shoutout-shoutout-default/api/shoutout-sms/,2021-11, ShoutOUT ,ShoutOUT SMS,Send SMS to any number globally from your application through ShoutOUT SMS API,9.2,510 ms,100%
+https://rapidapi.com/anticorruptionrolic/api/demo-project738/,2022-11, АНДМ ва МКЧТ ,👋 Demo Project,This Project is created by the onboarding process,8.7,861 ms,100%
+https://rapidapi.com/in4mfawzar/api/bulk-sms-sending-sri-lanka/,2023-04, Fawzar Mohamed ,Bulk SMS Sending - Sri Lanka,The Cheapest and the best Bulk SMS Service in Sri Lanka,9.0,"74,042 ms",42%
+https://rapidapi.com/direct7-networks-direct7-networks-default/api/d7-number-validator/,2023-09, Direct7 Networks ,D7 Number Validator,"The D7 Number Lookup API allows you to retrieve various details associated with a given phone number, including the carrier name, country code, number type (landline or mobile), and other relevant information.",8.7,876 ms,100%
+https://rapidapi.com/rivetsolutionsfze/api/rivet-sms/,2022-11, M Mubashir ,Rivet SMS,"Rivet SMS API offers programmable SMS APIs, so you can get maximum value from your messages. Use our APIs to send single, bulk messages , schedule broadcasts, configure/ triggers messages and much more.",9.2,509 ms,100%
+https://rapidapi.com/yennhi-yennhi-default/api/sms222/,2021-11, yennhi ,sms,send smd,8.9,69 ms,100%
+https://rapidapi.com/mr643062/api/phonenumber/,2021-11, Mohamad Ridwan Apriyadi ,phonenumber,study to send verification SMS,8.7,18 ms,100%
+https://rapidapi.com/stefanluciandeleanu/api/sms-voice-messages/,2021-11, Stefan Deleanu ,SMS & Voice Messages,Send SMS messages and voice messages using a simple to use API.,,,
+https://rapidapi.com/quartz-data-services-ltd-quartz-data-services-ltd-default/api/mobilecheck-mnp-lookup/,2023-07, Quartz Data Services Ltd ,MobileCheck MNP Lookup,MobileCheck MNP Lookup,8.3,730 ms,100%
+https://rapidapi.com/businessangelsunited/api/ai-messaging/,2023-01, Life Coach Ray ,AI Messaging,This API allows users to send text messages and images from the app to phone numbers.,,,
+https://rapidapi.com/firetext-firetext-default/api/firetext-uk-sms/,2021-11, FireText ,FireText UK SMS,FireText are the leading UK provider for SMS. Send SMS text messages via our API and manage your contacts inside your FireText account. We're a UK service.,,,
+https://rapidapi.com/activewatersaver/api/smssendin/,2021-11, Active watersaver ,smssendin,sms send,8.3,115 ms,100%
+https://rapidapi.com/easysendsms/api/easysendsms/,2023-02, EasySendSMS ,EasySendSMS,"EasySendSMS.com offers a powerful SMS API that allows developers to easily integrate SMS messaging functionality into their applications. With our API, developers can send bulk SMS.",8.4,583 ms,100%
+https://rapidapi.com/linkses/api/afilnet-sms/,2021-11, linkses ,Afilnet SMS,This API offers you connection with Afilnet services to send SMS and Bulk SMS campaigns,,,
+https://rapidapi.com/oliverlikowloon-9SzjVjYlt8j/api/test6219/,2021-11, Oliver Lieu ,test,test,,,
+https://rapidapi.com/goooogle/api/okko/,2021-11, goooogle ,OKKO,OKKO,,,
+https://rapidapi.com/meriem00sahraoui-gEzV4ednYm5/api/upi-sms/,2022-11, Meriem Sahraoui ,upi SMS,SMS SENDER,,,
+https://rapidapi.com/intergo-telecom-ltd-intergo-telecom-ltd-default/api/smsto/,2022-11, Intergo Telecom Ltd ,SMSto,"Implement SMS notifications, OTP, reminders, etc. into your workflow and build apps that send SMS with our redundant SSL SMS API.",2.1,742 ms,100%
+https://rapidapi.com/smsreceive/api/bulk-us-phone-numbers/,2021-11, SMSreceive ,Bulk US phone numbers,Buy bulk phone numbers for SMS verification/activation.,0.0,24 ms,0%
+https://rapidapi.com/shadow-immo-shadow-immo-default/api/textnow-one-day-phone-us/,2021-11, Shadow iMMO ,Textnow one day (Phone US),Give you a random US phone number in Textnow so you can use it for a day.,,,
+https://rapidapi.com/rmr-soft-rmr-soft-default/api/kyc-verification1/,2023-02, RMR-Soft ,KYC verification,Verify your users : -ID Card or passport verifications,,,
+https://rapidapi.com/blemedia-solutions-blemedia-solutions-default/api/redtie/,2023-02, Redtie ,Redtie,The robust and secure text messaging solution for your Business,,,
+https://rapidapi.com/clarkhacks/api/hooksms/,2021-11, clarkhacks ,HookSMS,Quickly integrate outbound SMS with a simple post request or our npm package.,,,
+https://rapidapi.com/marcduplessis1/api/bulksmssender/,2023-09, Marc du Plessis ,BulkSMSSender,"The Bulk SMS Sender API empowers developers and businesses to efficiently send SMS messages in bulk to multiple recipients. This API is designed for backend applications and integrates seamlessly with Twilio, a leading SMS messaging platform, to ensure reliable and secure message delivery.",0.0,"1,442 ms",100%
+https://rapidapi.com/josh--iONfbK0eYx/api/format-phone-number1/,2022-11, Josh Sullivan ,Format Phone Number,"By passing in phone number and country, our API returns a properly formatted number for sending through various SMS services.",,,
+https://rapidapi.com/pik-technologies-llc-pik-technologies-llc-default/api/skip-auth/,2022-11, Pik Technologies LLC ,Skip Auth,Phone number verification API.,,,
+https://rapidapi.com/need-it-need-it-default/api/disposable-phone-number/,2022-11, need it ,Disposable phone number,Detect virtual phone number - Protect you business against scammer and false account.,0.0,158 ms,0%
+https://rapidapi.com/Atia/api/otp-sms-verification/,2021-11, Atia ,Otp sms verification,send otp verification code to any number and verify otp code,,,
+https://rapidapi.com/illegalbyte/api/smsjet/,2022-11, illegalbyte ,SMSjet,"The Affordable SMS API, send 100 SMS for only $1. Receive 100 free credits on signup.",0.1,30 ms,0%
+https://rapidapi.com/remote-analytics-jobs-remote-analytics-jobs-default/api/spewhub/,2021-11, Remote Analytics Jobs ,SpewHub,Unlimited Two Way Global SMS API | Send More Spend Less | Subscription-based | Highly Affordable as low as $5,,,
+https://rapidapi.com/gurukrupa77/api/gms/,2021-11, gurukrupa77 ,gms,sms,0.0,21 ms,0%
+https://rapidapi.com/otpninja-otpninja-default/api/otpninja/,2021-11, otpninja ,otpninja,Time-based and one time codes for verifying phone numbers,,,
+https://rapidapi.com/accuratecheckr/api/phone-verification3/,2021-11, accuratecheckr ,Phone verification,"Validate any phone number across the USA, in bulk or single. Use free and forever.",0.1,496 ms,100%
+https://rapidapi.com/mariusripeanu/api/nobel-sms/,2021-11, Ionut Ripeanu ,Nobel SMS,Nobel SMS - High Performance Messaging Solution,,,
+https://rapidapi.com/arminashoury/api/one-step-2fa-sms/,2022-11, CronDock ,One Step 2FA SMS,"Pass a phone number and a confirmation URL to the API, user will receive a text message, if they confirm to login a post request will be sent to the confirmation URL you provided.",,,
+https://rapidapi.com/hamedagebaty/api/number-lookup1/,2022-11, hamedagebaty ,number lookup,lookup number operator,0.0,111 ms,100%
+https://rapidapi.com/bd2010news-U1yT1lt2b4b/api/lowest-cost-otp-via-sms-for-bangladesh/,2021-11, Al Imran Suvro ,Lowest Cost OTP Via SMS for Bangladesh,A simple way to verify Bangladesh user's phone number verification with the lowest cost.,,,
+https://rapidapi.com/cybearian-cybearian-default/api/cybearian-sms/,2021-11, Cybearian ,cybearian-sms,Mobile short message service from Cybearian,,,
+https://rapidapi.com/servettuncel/api/2fa-provider/,2021-11, Servet Tunçel ,2FA Provider,Send Verification Number to your Clients safety!,,,
+https://rapidapi.com/autobamm/api/augustinapi1/,2021-11, autobamm.ro ,AugustinAPI,SMS,,,
+https://rapidapi.com/miftahsteven/api/sms35/,2021-11, Miftah Steven ,SMS,SMS API,,,
+https://rapidapi.com/shoutout-shoutout-default/api/shoutout-otp1/,2021-11, ShoutOUT ,ShoutOUT OTP,Power your application with Two Factor Authentication with OTP API. Generate OTP code and validation API are available where you just have to worry about your application logic.,0.1,888 ms,92%
+https://rapidapi.com/dsys01/api/dedu/,2021-11, praveen ,dedu,dedu,,,
+https://rapidapi.com/guinessnanaa/api/david1/,2021-11, David Cohen ,david,hot store,,,
+https://rapidapi.com/henrycazalet/api/the-sms-works2/,2021-11, Henry Cazalet ,The SMS Works,"A rock solid, low cost SMS API that companies and organisations of all sizes can rely on.",0.0,378 ms,100%
+https://rapidapi.com/dllmdog2019/api/g2api2019/,2021-11, Dog DLLM ,g2API2019,g2API,,,
+https://rapidapi.com/lqv206/api/lqv68/,2021-11, Vu Lee ,lqv68,lqv68,,,
+https://rapidapi.com/liamquinnreach/api/reach-interactive/,2021-11, liamquinnreach ,Reach Interactive,"Our secure SMS API is the only tool you'll need to schedule, send and receive messages from your existing systems. It's robust too - even the most demanding applications see high message throughputs using our API.",,,
+https://rapidapi.com/emanuele.dunp/api/send-sms4/,2021-11, Emanuele Longhi ,Send SMS,Send text messages,,,
+https://rapidapi.com/broadnet-technologies-broadnet-technologies-default/api/broadnet-sms1/,2022-11, BroadNet Technologies ,BroadNet SMS,"Broadnet is an international leading business messaging solution provider. We are a GSMA associate member, ISO in information security management and quality management system and GDPR Certified; Broadnet is well known for its services: Bulk SMS, A2P SMS, HLR Lookup, SMSC Gateway and SMS Firewall; more than 60,000+ Clients. Direct connection to more than 680+ Operators & Carriers.",0.1,476 ms,0%
+https://rapidapi.com/tql247/api/l2/,2021-11, Tran Linh ,L2,Get and save request,,,
+https://rapidapi.com/sms-portal-sms-portal-default/api/smsportal1/,2021-11, SMSPortal ,SMSPortal,Bulk SMS for maximum reach and genuine customer engagement.,,,
+https://rapidapi.com/smsapi/api/smsapi-com3/,2021-11, SMSAPI ,SMSAPI.com,Powerful and easy SMS communication at your fingertips!,0.1,743 ms,100%
+https://rapidapi.com/aldohsil2607-4RCZ40zIqPL/api/smsbouldering/,2021-11, Copy Code ,SMSbouldering,aas,0.0,"5,450 ms",0%
+https://rapidapi.com/gaskart/api/gaskart-apps/,2021-11, gaskart ,GASKART APPS,GASKART API,,,
+https://rapidapi.com/imuzahuzi/api/sms-app3/,2023-06, imuzahuzi ,SMS App,,,,
+https://rapidapi.com/spring-edge-spring-edge-default/api/transactional-sms1/,2021-11, Spring Edge Technologies Private Limited ,Transactional SMS,API to send transactional SMS,,,
+https://rapidapi.com/spring-edge-spring-edge-default/api/promotional-sms/,2021-11, Spring Edge Technologies Private Limited ,Promotional SMS,API to send promotional using spring edge sms gateway,0.0,252 ms,99%
+https://rapidapi.com/ughaleb/api/eid-program/,2022-11, Abdullah Ghaleb ,Eid Program,Salatin Committee,,,
+https://rapidapi.com/mohammed.b.shaker/api/test2678/,2021-11, mohammed ,test,tes test,,,
+https://rapidapi.com/ben10ch008/api/post-notifications-to-subscribers/,2023-01, Ben10 Ch ,Post Notifications to Subscribers,This API allows users to subscribe to a website and receive notifications of new posts.,0.0,21 ms,100%
+https://rapidapi.com/friendchatik-friendchatik-default/api/friendchatik/,2021-11, Friendchatik ,Friendchatik,SMS verification api,,,
+https://rapidapi.com/jhn.ibekwe/api/johneit/,2021-11, Ejike John Ibekwe ,JohnEIT,ICT solution service,0.0,36 ms,0%
+https://rapidapi.com/nhm1096/api/hctcom/,2021-11, Minh Nguyen ,hctcom,hctcom sms service,,,
+https://rapidapi.com/symtera-technologies-symtera-technologies-default/api/notify92-sms-service/,2021-11, Symtera Technologies ,Notify92 SMS Service,"Notify92 aims to provide a standard platform to allow corporates to send business bulk SMS from the Internet in Pakistan. This includes Short codes, one-way, two-way SMS alerts, SMS competitions, SMS voting, SMS information services, SMS marketing campaigns or SMS for CRM, OTP, notifications etc.",,,
+https://rapidapi.com/sammeyerson16/api/sms-send-receive/,2021-11, Sam M ,sms-send-receive,trying to send and receive sms,0.0,20 ms,0%
+https://rapidapi.com/kemonai-kemonai-default/api/zigatext-global-bulk-sms-otp1/,2023-06, Kemonai ,Zigatext - Global Bulk SMS & OTP,"Experience the power of efficient, targeted, and personalized SMS communication with Zigatext.",0.0,873 ms,100%
+https://rapidapi.com/Gunsky/api/gunsky/,2021-11, Gunsky ,Gunsky,Anjing,0.0,300 ms,100%
+https://rapidapi.com/shs-domino-shs-domino-default/api/testapi401/,2021-11, SHS Domino ,testAPI,testAPI,0.0,"127,204 ms",0%
+https://rapidapi.com/warneldilan/api/sms238/,2021-11, Warnel Dilan ,Sms,send bulk sms instantly,,,
