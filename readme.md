@@ -48,34 +48,94 @@
 
 **Basic 文件字段说明:**
 
-| 字段名            | 说明     | 示例                                                                     |
-| ----------------- | -------- | ------------------------------------------------------------------------ |
-| API 名称          | API 名称 | SEO Automations                                                          |
-| API 链接          | API URL  | [SEO Automations](https://rapidapi.com/BigFoxMedia/api/seo-automations/) |
-| API Popularity    | 受欢迎度 | 9.5                                                                      |
-| API Latency       | 使用延迟 | 13,540ms                                                                 |
-| API Service Level | 服务水平 | 90%                                                                      |
+| 字段名            | 说明             | 示例                                                                     |
+| ----------------- | ---------------- | ------------------------------------------------------------------------ |
+| API 名称          | API 名称         | SEO Automations                                                          |
+| Update_Time       | API 最近更新时间 | 2023-02                                                                  |
+| Author            | API 作者         | Eduard Kleine                                                            |
+| API 链接          | API URL          | [SEO Automations](https://rapidapi.com/BigFoxMedia/api/seo-automations/) |
+| API Popularity    | 受欢迎度         | 9.5                                                                      |
+| API Latency       | 使用延迟         | 13,540ms                                                                 |
+| API Service Level | 服务水平         | 90%                                                                      |
 
 **Detail 文件字段说明:**
 
 ---
 
-| 字段名            | 说明                                                                 | 示例                                                                                                                                                                                                                                                                                                                                                   |
-| ----------------- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| API 名称          | API 名称                                                             | SEO Automations                                                                                                                                                                                                                                                                                                                                        |
-| API 链接          | 此 API 在 RapidAPI 的 URL                                            | SEO Automations API                                                                                                                                                                                                                                                                                                                                    |
-| API Host          | 托管或部署 API 的主机服务器或域                                      | seo-automations.p.rapidapi.com                                                                                                                                                                                                                                                                                                                         |
-| Endpoint 名称     | 端点提供的操作或功能                                                 | GET: Extract Sitemap XML as JSON                                                                                                                                                                                                                                                                                                                       |
-| Endpoint 描述     | 详细解释或说明端点的功能                                             | Are you looking for an API that can quickly and easily download and parse sitemap.xml files into JSON format? Look no further! Our API allows you to make a simple GET request, passing in the URL of a sitemap.xml file as a parameter. The API will handle the rest, downloading th...                                                               |
-| Endpoint 种类     | 端点的种类                                                           | Tier 2 APIs (Fast)                                                                                                                                                                                                                                                                                                                                     |
-| Endpoint 必须参数 | 向特定端点发出请求时必须提供的参数                                   | `{'参数名': ['your-api-key', 'shortcode'], '参数类型': ['STRING', 'STRING'], '参数注意事项': ['Your APIKey provided by Workable', 'Retrieve detailed job information, including the job description. The shortcode is a unique identifier for each job and can be seen by invoking "/jobs"']} `                                                        |
-| Endpoint 可选参数 | 不是端点运行所必需的，但如果需要额外的定制或特定行为，也可以包括在内 | `{'参数名': ['address', 'lng', 'lat', 'note'], '参数类型': ['STRING', 'STRING', 'STRING', 'STRING'], '参数注意事项': ['An optional human-readable address string where the QR Code will be attached', 'An optional longitude of where the QR Code will be attached, 'An optional latitude of where the QR Code will be attached, 'An optional note']}` |
+| 字段名            | 说明                               | 示例                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| API 名称          | API 名称                           | SEO Automations                                                                                                                                                                                                                                                                                                                                        |
+| API 链接          | 此 API 在 RapidAPI 的 URL          | SEO Automations API                                                                                                                                                                                                                                                                                                                                    |
+| API Host          | 托管或部署 API 的主机服务器或域    | seo-automations.p.rapidapi.com                                                                                                                                                                                                                                                                                                                         |
+| Endpoint 名称     | 端点提供的操作或功能               | GET: Extract Sitemap XML as JSON                                                                                                                                                                                                                                                                                                                       |
+| Endpoint 描述     | 详细解释或说明端点的功能           | Are you looking for an API that can quickly and easily download and parse sitemap.xml files into JSON format? Look no further! Our API allows you to make a simple GET request, passing in the URL of a sitemap.xml file as a parameter. The API will handle the rest, downloading th...                                                               |
+| Endpoint 种类     | 端点的种类                         | Tier 2 APIs (Fast)                                                                                                                                                                                                                                                                                                                                     |
+| Endpoint 必须参数 | 向特定端点发出请求时必须提供的参数 | `{'参数名': ['your-api-key', 'shortcode'], '参数类型': ['STRING', 'STRING'], '参数注意事项': ['Your APIKey provided by Workable', 'Retrieve detailed job information, including the job description. The shortcode is a unique identifier for each job and can be seen by invoking "/jobs"']} `                                                        |
+| Endpoint 可选参数 | 非端点运行必需，可提供额外功能     | `{'参数名': ['address', 'lng', 'lat', 'note'], '参数类型': ['STRING', 'STRING', 'STRING', 'STRING'], '参数注意事项': ['An optional human-readable address string where the QR Code will be attached', 'An optional longitude of where the QR Code will be attached, 'An optional latitude of where the QR Code will be attached, 'An optional note']}` |
 
 ![屏幕截图 2023-11-08 213652](./RESTful-API-Crawler/Static/index.png)
 
 ## API 调用及组合示例
 
-1. 订阅 API 以获取特定的 Key，否则测试时会因为未订阅而无法测试![订阅](./RESTful-API-Crawler/Static/subscribe.png)
-   - 注意：有些 API 可能需要提供国外的银行卡才可以测试
-2. 本实验调用了两个 API（[Text Translator](https://rapidapi.com/dickyagustin/api/text-translator2), [OPEN AI](https://rapidapi.com/rphrp1985/api/open-ai21)），第一个 API 用于将我们的问题转换为英文然后传给第二个 API ，随后我们的问题以问答的形式被回答并输出结果，代码查看[API_Calling.py](RESTful-API-Crawler/Scripts/API_Calling.py),如需运行将其中的 API_Key 换成您订阅的 Key。
-   - 注意：第二个 API 需要提供相应的上下文以供 OPEN AI 推断
+### 单一 API 调用
+
+订阅 API 以获取特定的 Key，否则测试时会因为未订阅而无法测试。![订阅](./RESTful-API-Crawler/Static/subscribe.png)
+
+- 注意：有些 API 可能需要提供国外的银行卡才可以测试
+
+### 组合 API 调用
+
+本实验调用了两个 API（[Text Translator](https://rapidapi.com/dickyagustin/api/text-translator2)和[OPEN AI](https://rapidapi.com/rphrp1985/api/open-ai21)）。第一个 API 用于将我们的问题转换为英文然后传给第二个 API ，随后我们的问题以问答的形式被回答并输出结果，代码查看[API_Calling.py](RESTful-API-Crawler/Scripts/API_Calling.py),如需运行将其中的 API_Key 换成您订阅的 Key。
+
+- 注意：第二个 API 需要提供相应的上下文以供 OPEN AI 推断
+
+```python
+import requests
+
+def translate_text(source_language, target_language, text, api_key):
+    url = "https://text-translator2.p.rapidapi.com/translate"
+    headers = {
+        "content-type": "application/x-www-form-urlencoded",
+        "X-RapidAPI-Key": api_key,
+        "X-RapidAPI-Host": "text-translator2.p.rapidapi.com"
+    }
+    payload = {
+        "source_language": source_language,
+        "target_language": target_language,
+        "text": text
+    }
+
+    response = requests.post(url, data=payload, headers=headers)
+
+    return response.json()['data']['translatedText']
+
+def ask_question(question, context, api_key):
+    url = "https://open-ai21.p.rapidapi.com/qa"
+    headers = {
+        "content-type": "application/json",
+        "X-RapidAPI-Key": api_key,
+        "X-RapidAPI-Host": "open-ai21.p.rapidapi.com"
+    }
+    payload = {
+        "question": question,
+        "context": context
+    }
+
+    response = requests.post(url, json=payload, headers=headers)
+
+    return response.json()
+
+def main():
+    X_RapidAPI_Key = "YOUR_RAPIDAPI_KEY"
+
+    translation = translate_text("zh", "en", "今天是星期几？", X_RapidAPI_Key)
+    context = "The current date is November 17, year 2023."
+
+    question_response = ask_question(translation, context, X_RapidAPI_Key)
+
+    print(question_response)
+
+if __name__ == "__main__":
+    main()
+
+```

@@ -1,34 +1,47 @@
 import requests
 
-X_RapidAPI_Key = ""
+def translate_text(source_language, target_language, text, api_key):
+    url = "https://text-translator2.p.rapidapi.com/translate"
+    headers = {
+        "content-type": "application/x-www-form-urlencoded",
+        "X-RapidAPI-Key": api_key,
+        "X-RapidAPI-Host": "text-translator2.p.rapidapi.com"
+    }
+    payload = {
+        "source_language": source_language,
+        "target_language": target_language,
+        "text": text
+    }
 
-url = "https://text-translator2.p.rapidapi.com/translate"
+    response = requests.post(url, data=payload, headers=headers)
 
-payload = {
-	"source_language": "zh",
-	"target_language": "en",
-	"text": "今天是星期几？"
-}
-headers = {
-	"content-type": "application/x-www-form-urlencoded",
-	"X-RapidAPI-Key": X_RapidAPI_Key,
-	"X-RapidAPI-Host": "text-translator2.p.rapidapi.com"
-}
+    return response.json()['data']['translatedText']
 
-response = requests.post(url, data=payload, headers=headers)
+def ask_question(question, context, api_key):
+    url = "https://open-ai21.p.rapidapi.com/qa"
+    headers = {
+        "content-type": "application/json",
+        "X-RapidAPI-Key": api_key,
+        "X-RapidAPI-Host": "open-ai21.p.rapidapi.com"
+    }
+    payload = {
+        "question": question,
+        "context": context
+    }
 
-url = "https://open-ai21.p.rapidapi.com/qa"
+    response = requests.post(url, json=payload, headers=headers)
 
-payload = {
-	"question": response.json()['data']['translatedText'],
-	"context": "The current date is November 17, year 2023."
-}
-headers = {
-	"content-type": "application/json",
-	"X-RapidAPI-Key": X_RapidAPI_Key,
-	"X-RapidAPI-Host": "open-ai21.p.rapidapi.com"
-}
+    return response.json()
 
-response = requests.post(url, json=payload, headers=headers)
+def main():
+    X_RapidAPI_Key = "YOUR_RAPIDAPI_KEY"
 
-print(response.json())
+    translation = translate_text("zh", "en", "今天是星期几？", X_RapidAPI_Key)
+    context = "The current date is November 17, year 2023."
+
+    question_response = ask_question(translation, context, X_RapidAPI_Key)
+
+    print(question_response)
+
+if __name__ == "__main__":
+    main()
